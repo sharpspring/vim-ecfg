@@ -9,7 +9,7 @@ Just stick it in your `.vim/bundle` folder.
 ```bash
 mkdir -p ~/.vim/bundle
 cd ~/.vim/bundle
-git clone https://github.com/santiclause/vim-ecfg
+git clone https://github.com/sharpspring/vim-ecfg
 ```
 
 ## Requirements
